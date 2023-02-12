@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adfaa51d.css",
+    "main.js": "/static/js/main.c06211f2.js",
+    "static/media/Sprocket.png": "/static/media/Sprocket.892a459b0f7534498c5d.png",
+    "static/media/reactravel.png": "/static/media/reactravel.d71a87b0b270aeb891b9.png",
+    "static/media/pokejs.png": "/static/media/pokejs.505a97b9f01901134b68.png",
+    "static/media/lorran.png": "/static/media/lorran.e87426bf1847b796b417.png",
+    "index.html": "/index.html",
+    "main.adfaa51d.css.map": "/static/css/main.adfaa51d.css.map",
+    "main.c06211f2.js.map": "/static/js/main.c06211f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adfaa51d.css",
+    "static/js/main.c06211f2.js"
+  ]
+}
